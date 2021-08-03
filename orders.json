@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Arsen Asatryan",
+    "email": "asatryanarsen4@gmail.com",
+    "address": "Babajanyan 18",
+    "phone": "+37495387007",
+    "pizzas": [
+      {
+        "size": "large",
+        "toppings": []
+      },
+      {
+        "size": "large",
+        "toppings": []
+      },
+      {
+        "size": "large",
+        "toppings": []
+      }
+    ],
+    "status": "pending",
+    "createdTime": "2021-08-03T14:21:31.475Z",
+    "itemId": "YEGF94LSJA",
+    "price": 32.97,
+    "id": 11
+  },
+  {
+    "name": "Arsen Asatryan",
+    "email": "asatryanarsen4@gmail.com",
+    "address": "Babajanyan 18",
+    "phone": "+37495387007",
+    "pizzas": [
+      {
+        "size": "large",
+        "toppings": []
+      },
+      {
+        "size": "large",
+        "toppings": [
+          "sweetcorn",
+          "mushroom"
+        ]
+      }
+    ],
+    "status": "pending",
+    "createdTime": "2021-08-03T14:21:21.666Z",
+    "itemId": "A86NWZ89AA",
+    "price": 23.71,
+    "id": 10
+  },
+  {
+    "name": "Arsen Asatryan",
+    "email": "asatryanarsen4@gmail.com",
+    "address": "Babajanyan 18",
+    "phone": "+37495387007",
+    "pizzas": [
+      {
+        "size": "large",
+        "toppings": [
+          "pepperoni",
+          "tomato"
+        ]
+      }
+    ],
+    "status": "pending",
+    "createdTime": "2021-08-03T14:21:13.329Z",
+    "itemId": "S8OBO66PP0",
+    "price": 12.69,
+    "id": 9
+  },
+  {
+    "name": "Arsen Asatryan",
+    "email": "asatryanarsen4@gmail.com",
+    "address": "Babajanyan 18",
+    "phone": "+37495387007",
+    "pizzas": [
+      {
+        "size": "large",
+        "toppings": []
+      }
+    ],
+    "status": "pending",
+    "createdTime": "2021-08-03T14:21:04.199Z",
+    "itemId": "M543D4N1D7",
+    "price": 10.99,
+    "id": 8
+  },
+  {
+    "name": "Arsen Asatryan",
+    "email": "asatryanarsen4@gmail.com",
+    "address": "Babajanyan 18",
+    "phone": "+37495387007",
+    "pizzas": [
+      {
+        "size": "medium",
+        "toppings": [
+          "pepperoni",
+          "sweetcorn",
+          "onion"
+        ]
+      }
+    ],
+    "status": "pending",
+    "createdTime": "2021-08-03T14:20:59.816Z",
+    "itemId": "GQ8BXWP50A",
+    "price": 11.69,
+    "id": 7
+  },
+  {
+    "name": "Arsen Asatryan",
+    "email": "asatryanarsen4@gmail.com",
+    "address": "Babajanyan 18",
+    "phone": "+37495387007",
+    "pizzas": [
+      {
+        "size": "large",
+        "toppings": [
+          "pepperoni",
+          "sweetcorn",
+          "onion"
+        ]
+      }
+    ],
+    "status": "pending",
+    "createdTime": "2021-08-03T14:19:51.370Z",
+    "itemId": "K0QALN91UW",
+    "price": 13.24,
+    "id": 6
+  },
+  {
+    "name": "Arsen Asatryan",
+    "email": "asatryanarsen4@gmail.com",
+    "address": "4107 Clearview Drive, BURKET, Indiana",
+    "phone": "+37495387007",
+    "pizzas": [
+      {
+        "size": "medium",
+        "toppings": [
+          "mushroom",
+          "pepperoni",
+          "onion",
+          "sweetcorn"
+        ]
+      }
+    ],
+    "status": "pending",
+    "createdTime": "2021-08-03T14:19:40.360Z",
+    "itemId": "MZGWLKRWLW",
+    "price": 12.49,
+    "id": 5
+  },
+  {
+    "name": "Arsen Asatryan",
+    "email": "asatryanarsen4@gmail.com",
+    "address": "7 Randall Mill Street Somerset, NJ 08873",
+    "phone": "+37495387007",
+    "pizzas": [
+      {
+        "size": "small",
+        "toppings": [
+          "onion",
+          "sweetcorn"
+        ]
+      }
+    ],
+    "status": "accepted",
+    "createdTime": "2021-08-03T14:19:16.301Z",
+    "itemId": "KNZNHXEKFX",
+    "price": 9.64,
+    "id": 4
+  },
+  {
+    "name": "Arsen Asatryan",
+    "email": "asatryanarsen4@gmail.com",
+    "address": "900 Talbot Ave. Mason, OH 45040",
+    "phone": "+37495387007",
+    "pizzas": [
+      {
+        "size": "large",
+        "toppings": [
+          "pepperoni",
+          "sweetcorn",
+          "onion"
+        ]
+      }
+    ],
+    "status": "inTransit",
+    "createdTime": "2021-08-03T14:19:02.426Z",
+    "itemId": "H72B4HVPK6",
+    "price": 13.24,
+    "id": 3
+  },
+  {
+    "name": "Arsen Asatryan",
+    "email": "asatryanarsen4@gmail.com",
+    "address": "7 Randall Mill Street Somerset, NJ 08873",
+    "phone": "+37495387007",
+    "pizzas": [
+      {
+        "size": "medium",
+        "toppings": [
+          "basil",
+          "bacon",
+          "mushroom"
+        ]
+      }
+    ],
+    "status": "completed",
+    "createdTime": "2021-08-03T14:18:50.852Z",
+    "completedTime": "2021-08-03T15:25:34.907Z",
+    "itemId": "44N11L55WC",
+    "price": 12.37,
+    "id": 2
+  },
+  {
+    "name": "Arsen Asatryan",
+    "email": "asatryanarsen4@gmail.com",
+    "address": "4107 Clearview Drive, BURKET, Indiana",
+    "phone": "+37495387007",
+    "pizzas": [
+      {
+        "size": "large",
+        "toppings": [
+          "mushroom",
+          "onion"
+        ]
+      }
+    ],
+    "status": "completed",
+    "createdTime": "2021-07-03T14:18:34.907Z",
+    "completedTime": "2021-07-03T15:17:34.907Z",
+    "itemId": "GJ37QNIIEX",
+    "price": 12.27,
+    "id": 1
+  }
+]

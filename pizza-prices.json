@@ -1,0 +1,49 @@
+{
+  "sizes": {
+    "large": 10.99,
+    "medium": 9.99,
+    "small": 8.99
+  },
+  "toppings": {
+    "bacon": {
+      "large": 0.99,
+      "medium": 0.79,
+      "small": 0.59
+    },
+    "pepperoni": {
+      "large": 1.2,
+      "medium": 0.85,
+      "small": 0.76
+    },
+    "mushroom": {
+      "large": 0.98,
+      "medium": 0.80,
+      "small": 0.58
+    },
+    "olive": {
+      "large": 0.55,
+      "medium": 0.46,
+      "small": 0.35
+    },
+    "basil": {
+      "large": 0.99,
+      "medium": 0.79,
+      "small": 0.59
+    },
+    "sweetcorn": {
+      "large": 0.75,
+      "medium": 0.65,
+      "small": 0.55
+    },
+    "onion": {
+      "large": 0.3,
+      "medium": 0.2,
+      "small": 0.1
+    },
+    "tomato": {
+      "large": 0.5,
+      "medium": 0.4,
+      "small": 0.32
+    }
+  }
+}
