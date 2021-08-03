@@ -9,6 +9,9 @@ command runs 2 servers
 API endpoints - http://localhost:3000
 SOCKET - http://localhost:3001
 
+Socket server used for updating orders in the Dashboard and Status pages if someone orders pizza. 
+Dashboard also will be update with the socket events when admin updates ordes status from the list
+
 ## db data set changes
 
 if you want manually update or add data in the orders or prices dataset, 
